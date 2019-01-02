@@ -1,2 +1,2 @@
-# writeathon-feedback
-Got feedback? Please let me know! https://www.writeathon.cn
+# Feedback
+Got some feedback? Create an issue for it. :)
